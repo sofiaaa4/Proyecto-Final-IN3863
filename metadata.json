@@ -1,0 +1,6 @@
+{
+  "name": "Ideathon Studio",
+  "description": "Herramienta guiada paso a paso para equipos de ideathon que transforma una idea en un prototipo navegable, README y guion de pitch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
